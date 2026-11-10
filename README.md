@@ -1,21 +1,28 @@
 # 🌱 Sustainable Fertilizer Recommendation System Using Python
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Render-brightgreen?style=for-the-badge&logo=render)](https://sustainable-fertilizer-recommendation.onrender.com/)
+[![Streamlit App](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://sustainable-fertilizer-recommendation.onrender.com/)
+[![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+
 A complete, beginner-friendly Machine Learning and Web Application designed to help farmers and agricultural students determine the most suitable and eco-friendly fertilizer recommendations based on soil nutrients (Nitrogen, Phosphorus, Potassium), soil pH, and crop variety.
+
+🌐 **Live Deployed Web App:** [https://sustainable-fertilizer-recommendation.onrender.com/](https://sustainable-fertilizer-recommendation.onrender.com/)
 
 ---
 
 ## 📋 Table of Contents
-1. [Project Overview](#-project-overview)
-2. [Key Features](#-key-features)
-3. [Technology Stack](#-technology-stack)
-4. [Project File Structure](#-project-file-structure)
-5. [How Each File Works](#-how-each-file-works)
-6. [Installation & Setup Guide](#-installation--setup-guide)
-7. [Running the Application](#-running-the-application)
-8. [Machine Learning Details](#-machine-learning-details)
-9. [Agronomic Knowledge & Rules](#-agronomic-knowledge--rules)
-10. [College Viva & Demonstration Q&A](#-college-viva--demonstration-qa)
-11. [Disclaimer](#-disclaimer)
+1. [Live Application URL](#-live-deployed-web-app)
+2. [Project Overview](#-project-overview)
+3. [Key Features](#-key-features)
+4. [Technology Stack](#-technology-stack)
+5. [Project File Structure](#-project-file-structure)
+6. [How Each File Works](#-how-each-file-works)
+7. [Installation & Setup Guide](#-installation--setup-guide)
+8. [Running the Application](#-running-the-application)
+9. [Machine Learning Details](#-machine-learning-details)
+10. [Agronomic Knowledge & Rules](#-agronomic-knowledge--rules)
+11. [College Viva & Demonstration Q&A](#-college-viva--demonstration-qa)
+12. [Disclaimer](#-disclaimer)
 
 ---
 
