@@ -1,0 +1,161 @@
+Nitrogen,Phosphorus,Potassium,pH,Crop_Type,Fertilizer
+20,45,40,6.5,Rice,Urea
+15,50,45,6.2,Rice,Urea
+25,40,50,6.8,Rice,Urea
+40,15,45,6.5,Rice,DAP
+45,18,50,6.0,Rice,DAP
+50,45,15,6.6,Rice,MOP
+45,40,18,6.4,Rice,MOP
+20,18,20,6.5,Rice,20-20-20
+25,20,22,6.7,Rice,20-20-20
+35,20,18,6.2,Rice,10-26-26
+30,15,25,6.4,Rice,14-35-14
+40,35,40,5.2,Rice,Organic Manure
+35,40,35,8.2,Rice,Organic Manure
+50,45,45,6.8,Rice,Compost
+55,40,50,7.0,Rice,Compost
+18,40,42,6.6,Wheat,Urea
+22,48,45,6.8,Wheat,Urea
+24,45,40,7.0,Wheat,Urea
+42,16,44,6.5,Wheat,DAP
+46,14,50,6.7,Wheat,DAP
+45,42,16,6.9,Wheat,MOP
+48,46,14,6.8,Wheat,MOP
+22,18,22,6.6,Wheat,20-20-20
+26,19,20,6.7,Wheat,20-20-20
+32,18,20,6.4,Wheat,10-26-26
+30,14,24,6.5,Wheat,14-35-14
+42,38,36,5.4,Wheat,Organic Manure
+38,42,40,8.1,Wheat,Organic Manure
+52,44,46,6.9,Wheat,Compost
+58,46,48,7.1,Wheat,Compost
+20,42,40,6.4,Maize,Urea
+25,46,44,6.5,Maize,Urea
+22,44,42,6.7,Maize,Urea
+45,15,40,6.3,Maize,DAP
+48,18,45,6.6,Maize,DAP
+44,45,15,6.5,Maize,MOP
+46,40,18,6.7,Maize,MOP
+24,20,22,6.4,Maize,20-20-20
+22,18,18,6.5,Maize,20-20-20
+34,16,22,6.2,Maize,10-26-26
+30,12,25,6.3,Maize,14-35-14
+38,36,38,5.1,Maize,Organic Manure
+36,40,35,8.3,Maize,Organic Manure
+48,42,44,6.8,Maize,Compost
+52,45,48,6.9,Maize,Compost
+22,40,42,7.0,Cotton,Urea
+26,45,40,7.2,Cotton,Urea
+20,42,44,6.9,Cotton,Urea
+44,15,42,7.1,Cotton,DAP
+46,17,45,6.8,Cotton,DAP
+42,44,16,7.2,Cotton,MOP
+45,40,18,7.0,Cotton,MOP
+20,20,22,6.8,Cotton,20-20-20
+24,18,20,7.1,Cotton,20-20-20
+32,18,20,6.5,Cotton,10-26-26
+30,14,26,6.6,Cotton,14-35-14
+38,36,36,5.3,Cotton,Organic Manure
+36,38,38,8.4,Cotton,Organic Manure
+50,42,46,7.2,Cotton,Compost
+54,46,48,7.0,Cotton,Compost
+24,42,40,6.6,Sugarcane,Urea
+28,45,44,6.5,Sugarcane,Urea
+22,40,42,6.8,Sugarcane,Urea
+48,16,42,6.7,Sugarcane,DAP
+50,18,46,6.4,Sugarcane,DAP
+46,44,16,6.5,Sugarcane,MOP
+48,42,18,6.8,Sugarcane,MOP
+22,20,22,6.6,Sugarcane,20-20-20
+25,18,20,6.7,Sugarcane,20-20-20
+35,18,22,6.3,Sugarcane,10-26-26
+32,15,25,6.4,Sugarcane,14-35-14
+40,38,36,5.0,Sugarcane,Organic Manure
+38,40,38,8.2,Sugarcane,Organic Manure
+52,44,46,6.8,Sugarcane,Compost
+56,48,50,7.0,Sugarcane,Compost
+18,40,44,6.2,Tomato,Urea
+22,42,40,6.4,Tomato,Urea
+20,44,46,6.5,Tomato,Urea
+42,16,40,6.3,Tomato,DAP
+45,18,44,6.6,Tomato,DAP
+40,42,14,6.4,Tomato,MOP
+44,46,16,6.5,Tomato,MOP
+20,18,20,6.3,Tomato,20-20-20
+24,20,22,6.5,Tomato,20-20-20
+30,16,20,6.1,Tomato,10-26-26
+28,14,24,6.2,Tomato,14-35-14
+36,34,36,5.2,Tomato,Organic Manure
+34,38,36,8.0,Tomato,Organic Manure
+46,40,42,6.6,Tomato,Compost
+50,44,46,6.7,Tomato,Compost
+16,42,45,5.8,Potato,Urea
+20,44,48,6.0,Potato,Urea
+18,40,46,5.9,Potato,Urea
+40,15,44,5.8,Potato,DAP
+44,18,48,6.1,Potato,DAP
+42,45,14,5.9,Potato,MOP
+45,48,16,6.0,Potato,MOP
+18,18,20,5.8,Potato,20-20-20
+22,20,22,6.1,Potato,20-20-20
+28,16,22,5.7,Potato,10-26-26
+26,14,24,5.9,Potato,14-35-14
+35,35,38,4.9,Potato,Organic Manure
+34,36,36,8.1,Potato,Organic Manure
+44,40,44,6.2,Potato,Compost
+48,44,46,6.3,Potato,Compost
+15,38,40,6.5,Groundnut,Urea
+18,42,42,6.7,Groundnut,Urea
+20,40,44,6.6,Groundnut,Urea
+38,14,40,6.4,Groundnut,DAP
+42,16,44,6.8,Groundnut,DAP
+38,40,14,6.6,Groundnut,MOP
+42,44,16,6.7,Groundnut,MOP
+18,16,18,6.5,Groundnut,20-20-20
+20,18,20,6.6,Groundnut,20-20-20
+28,16,20,6.3,Groundnut,10-26-26
+26,12,22,6.4,Groundnut,14-35-14
+32,32,34,5.2,Groundnut,Organic Manure
+30,36,34,8.3,Groundnut,Organic Manure
+42,38,40,6.8,Groundnut,Compost
+46,42,44,7.0,Groundnut,Compost
+65,55,50,6.5,Rice,Compost
+70,60,55,6.8,Wheat,Compost
+60,55,50,6.6,Maize,Compost
+65,58,52,7.0,Cotton,Compost
+70,62,55,6.7,Sugarcane,Compost
+60,50,52,6.4,Tomato,Compost
+58,52,50,6.0,Potato,Compost
+55,48,46,6.6,Groundnut,Compost
+28,48,45,6.3,Rice,Urea
+30,46,42,6.7,Wheat,Urea
+28,50,40,6.5,Maize,Urea
+29,48,44,7.1,Cotton,Urea
+30,50,42,6.6,Sugarcane,Urea
+26,45,44,6.4,Tomato,Urea
+25,46,48,6.0,Potato,Urea
+22,44,40,6.8,Groundnut,Urea
+46,20,48,6.4,Rice,DAP
+48,22,46,6.6,Wheat,DAP
+46,21,44,6.5,Maize,DAP
+48,20,46,6.9,Cotton,DAP
+50,22,48,6.8,Sugarcane,DAP
+44,20,46,6.3,Tomato,DAP
+46,21,50,5.9,Potato,DAP
+40,19,42,6.7,Groundnut,DAP
+48,46,20,6.5,Rice,MOP
+50,48,22,6.8,Wheat,MOP
+46,44,20,6.6,Maize,MOP
+48,46,21,7.0,Cotton,MOP
+52,48,20,6.7,Sugarcane,MOP
+46,44,20,6.5,Tomato,MOP
+48,46,22,6.1,Potato,MOP
+42,42,20,6.6,Groundnut,MOP
+36,36,38,4.8,Rice,Organic Manure
+35,38,36,8.6,Wheat,Organic Manure
+34,35,36,4.7,Maize,Organic Manure
+36,37,35,8.7,Cotton,Organic Manure
+38,36,34,4.6,Sugarcane,Organic Manure
+32,34,35,8.5,Tomato,Organic Manure
+32,32,34,4.5,Potato,Organic Manure
+30,34,32,8.8,Groundnut,Organic Manure
